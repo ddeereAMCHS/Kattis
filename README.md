@@ -1,8 +1,3 @@
-# Template
+# Kattis
 
-- Create a program called `.java`
-- Prompt the user for 
-
-***Example Input:***\
-\
-***Example Output:***
+- Write your programs for any [Kattis](https://open.kattis.com) problems in this repository
